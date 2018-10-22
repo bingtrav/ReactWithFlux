@@ -45794,7 +45794,7 @@ var AuthorList = React.createClass({displayName: "AuthorList",
                         React.createElement("th", null, "Name")
                     ), 
                     React.createElement("tbody", null, 
-                        this.props.authors.map(createAuthorRow, this)
+                         this.props.authors.map(createAuthorRow, this) 
                     )
                 )
             )
