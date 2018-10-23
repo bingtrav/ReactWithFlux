@@ -1,3 +1,5 @@
+/*eslint-disable strict */
+
 var React = require('react');
 var Header = require('./common/header');
 var RouteHandler = require('react-router').RouteHandler;
